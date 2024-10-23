@@ -1,0 +1,324 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|c:\\users\\mzouri\\documents\\3il\\limoges\\.net_c#\\maui\\tp1 maui v2\\tp1 maui v2\\views\\vgeolocalisation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|solutionrelative:tp1 maui v2\\views\\vgeolocalisation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|c:\\users\\mzouri\\documents\\3il\\limoges\\.net_c#\\maui\\tp1 maui v2\\tp1 maui v2\\views\\vgeolocalisation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|solutionrelative:tp1 maui v2\\views\\vgeolocalisation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|c:\\users\\mzouri\\documents\\3il\\limoges\\.net_c#\\maui\\tp1 maui v2\\tp1 maui v2\\views\\vbatterie.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|solutionrelative:tp1 maui v2\\views\\vbatterie.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|c:\\users\\mzouri\\documents\\3il\\limoges\\.net_c#\\maui\\tp1 maui v2\\tp1 maui v2\\views\\vbatterie.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|solutionrelative:tp1 maui v2\\views\\vbatterie.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|c:\\users\\mzouri\\documents\\3il\\limoges\\.net_c#\\maui\\tp1 maui v2\\tp1 maui v2\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|solutionrelative:tp1 maui v2\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|c:\\users\\mzouri\\documents\\3il\\limoges\\.net_c#\\maui\\tp1 maui v2\\tp1 maui v2\\views\\vphone.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|solutionrelative:tp1 maui v2\\views\\vphone.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|c:\\users\\mzouri\\documents\\3il\\limoges\\.net_c#\\maui\\tp1 maui v2\\tp1 maui v2\\views\\vphone.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|solutionrelative:tp1 maui v2\\views\\vphone.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|c:\\users\\mzouri\\documents\\3il\\limoges\\.net_c#\\maui\\tp1 maui v2\\tp1 maui v2\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|solutionrelative:tp1 maui v2\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|c:\\users\\mzouri\\documents\\3il\\limoges\\.net_c#\\maui\\tp1 maui v2\\tp1 maui v2\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|solutionrelative:tp1 maui v2\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|c:\\users\\mzouri\\documents\\3il\\limoges\\.net_c#\\maui\\tp1 maui v2\\tp1 maui v2\\views\\vecran.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|solutionrelative:tp1 maui v2\\views\\vecran.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|c:\\users\\mzouri\\documents\\3il\\limoges\\.net_c#\\maui\\tp1 maui v2\\tp1 maui v2\\views\\vecran.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|solutionrelative:tp1 maui v2\\views\\vecran.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|c:\\users\\mzouri\\documents\\3il\\limoges\\.net_c#\\maui\\tp1 maui v2\\tp1 maui v2\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|solutionrelative:tp1 maui v2\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|c:\\users\\mzouri\\documents\\3il\\limoges\\.net_c#\\maui\\tp1 maui v2\\tp1 maui v2\\views\\apropos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|solutionrelative:tp1 maui v2\\views\\apropos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|c:\\users\\mzouri\\documents\\3il\\limoges\\.net_c#\\maui\\tp1 maui v2\\tp1 maui v2\\views\\apropos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|solutionrelative:tp1 maui v2\\views\\apropos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|c:\\users\\mzouri\\documents\\3il\\limoges\\.net_c#\\maui\\tp1 maui v2\\tp1 maui v2\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|solutionrelative:tp1 maui v2\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|c:\\users\\mzouri\\documents\\3il\\limoges\\.net_c#\\maui\\tp1 maui v2\\tp1 maui v2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|solutionrelative:tp1 maui v2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|c:\\users\\mzouri\\documents\\3il\\limoges\\.net_c#\\maui\\tp1 maui v2\\tp1 maui v2\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|solutionrelative:tp1 maui v2\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|c:\\users\\mzouri\\documents\\3il\\limoges\\.net_c#\\maui\\tp1 maui v2\\tp1 maui v2\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64BAE2A6-71FC-47C6-A343-148D7ED5438B}|TP1 MAUI v2\\TP1 MAUI v2.csproj|solutionrelative:tp1 maui v2\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vGeolocalisation.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\Views\\vGeolocalisation.xaml.cs",
+              "RelativeDocumentMoniker": "TP1 MAUI v2\\Views\\vGeolocalisation.xaml.cs",
+              "ToolTip": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\Views\\vGeolocalisation.xaml.cs*",
+              "RelativeToolTip": "TP1 MAUI v2\\Views\\vGeolocalisation.xaml.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:35:30.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "TP1 MAUI v2\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\AppShell.xaml.cs",
+              "RelativeToolTip": "TP1 MAUI v2\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:12:11.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "vPhone.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\Views\\vPhone.xaml.cs",
+              "RelativeDocumentMoniker": "TP1 MAUI v2\\Views\\vPhone.xaml.cs",
+              "ToolTip": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\Views\\vPhone.xaml.cs",
+              "RelativeToolTip": "TP1 MAUI v2\\Views\\vPhone.xaml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:02:26.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vPhone.xaml",
+              "DocumentMoniker": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\Views\\vPhone.xaml",
+              "RelativeDocumentMoniker": "TP1 MAUI v2\\Views\\vPhone.xaml",
+              "ToolTip": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\Views\\vPhone.xaml",
+              "RelativeToolTip": "TP1 MAUI v2\\Views\\vPhone.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T12:00:16.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\AppShell.xaml",
+              "RelativeDocumentMoniker": "TP1 MAUI v2\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\AppShell.xaml",
+              "RelativeToolTip": "TP1 MAUI v2\\AppShell.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T11:47:26.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vGeolocalisation.xaml",
+              "DocumentMoniker": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\Views\\vGeolocalisation.xaml",
+              "RelativeDocumentMoniker": "TP1 MAUI v2\\Views\\vGeolocalisation.xaml",
+              "ToolTip": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\Views\\vGeolocalisation.xaml",
+              "RelativeToolTip": "TP1 MAUI v2\\Views\\vGeolocalisation.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T12:00:34.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vBatterie.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\Views\\vBatterie.xaml.cs",
+              "RelativeDocumentMoniker": "TP1 MAUI v2\\Views\\vBatterie.xaml.cs",
+              "ToolTip": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\Views\\vBatterie.xaml.cs",
+              "RelativeToolTip": "TP1 MAUI v2\\Views\\vBatterie.xaml.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwFgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:52:57.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "vEcran.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\Views\\vEcran.xaml.cs",
+              "RelativeDocumentMoniker": "TP1 MAUI v2\\Views\\vEcran.xaml.cs",
+              "ToolTip": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\Views\\vEcran.xaml.cs",
+              "RelativeToolTip": "TP1 MAUI v2\\Views\\vEcran.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:59:02.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vBatterie.xaml",
+              "DocumentMoniker": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\Views\\vBatterie.xaml",
+              "RelativeDocumentMoniker": "TP1 MAUI v2\\Views\\vBatterie.xaml",
+              "ToolTip": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\Views\\vBatterie.xaml",
+              "RelativeToolTip": "TP1 MAUI v2\\Views\\vBatterie.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-15T11:44:02.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "TP1 MAUI v2\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "TP1 MAUI v2\\Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-10-15T12:04:45.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "TP1 MAUI v2\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\MainPage.xaml.cs",
+              "RelativeToolTip": "TP1 MAUI v2\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:25:02.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "vEcran.xaml",
+              "DocumentMoniker": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\Views\\vEcran.xaml",
+              "RelativeDocumentMoniker": "TP1 MAUI v2\\Views\\vEcran.xaml",
+              "ToolTip": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\Views\\vEcran.xaml",
+              "RelativeToolTip": "TP1 MAUI v2\\Views\\vEcran.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T12:57:02.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "APropos.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\Views\\APropos.xaml.cs",
+              "RelativeDocumentMoniker": "TP1 MAUI v2\\Views\\APropos.xaml.cs",
+              "ToolTip": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\Views\\APropos.xaml.cs",
+              "RelativeToolTip": "TP1 MAUI v2\\Views\\APropos.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:47:05.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "APropos.xaml",
+              "DocumentMoniker": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\Views\\APropos.xaml",
+              "RelativeDocumentMoniker": "TP1 MAUI v2\\Views\\APropos.xaml",
+              "ToolTip": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\Views\\APropos.xaml",
+              "RelativeToolTip": "TP1 MAUI v2\\Views\\APropos.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T11:44:04.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\MainPage.xaml",
+              "RelativeDocumentMoniker": "TP1 MAUI v2\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\MainPage.xaml",
+              "RelativeToolTip": "TP1 MAUI v2\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T11:47:28.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\App.xaml",
+              "RelativeDocumentMoniker": "TP1 MAUI v2\\App.xaml",
+              "ToolTip": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\App.xaml",
+              "RelativeToolTip": "TP1 MAUI v2\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T11:47:25.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "TP1 MAUI v2\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "TP1 MAUI v2\\Resources\\Styles\\Colors.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T11:42:19.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "TP1 MAUI v2\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\MZOURI\\Documents\\3iL\\LIMOGES\\.NET_C#\\MAUI\\TP1 MAUI v2\\TP1 MAUI v2\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "TP1 MAUI v2\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T11:42:14.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

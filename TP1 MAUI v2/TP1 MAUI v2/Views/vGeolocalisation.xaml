@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TP1_MAUI_v2.Views.vGeolocalisation"
+             Title="vGeolocalisation">
+    <VerticalStackLayout>
+        <Label 
+            Text="longitude"
+            x:Name="lblLongitude"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" /> 
+        
+        <Label 
+            Text="latitude"
+            x:Name="lblLatitude"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        
+        <Label 
+            Text="lblAltitude"
+            x:Name=""
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+
+
+        <Button Text="Géeolocalisation" Clicked="GetCurrentLocation"></Button>
+        <Button Text="Annuler" Clicked="Cancel"></Button>
+    </VerticalStackLayout>
+</ContentPage>

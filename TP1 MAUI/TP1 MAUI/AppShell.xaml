@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="TP1_MAUI.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:TP1_MAUI"
+    xmlns:vues="clr-namespace:TP1_MAUI.Views"
+
+    Shell.FlyoutBehavior="Disabled"
+    Title="TP1_MAUI">
+
+    <TabBar>
+        
+    <ShellContent
+            Title="Accueil"
+            ContentTemplate="{DataTemplate local:MainPage}"
+        />
+        
+        <ShellContent
+            Title="A Propos"
+            ContentTemplate="{DataTemplate vues:APropos}"
+        />
+
+         <ShellContent
+            Title="Infos"
+            ContentTemplate="{DataTemplate vues:vPhone}"
+            />
+    </TabBar>   
+ 
+</Shell>
